@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# editor/os
+.vscode/
+.DS_Store
